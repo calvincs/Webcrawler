@@ -28,7 +28,7 @@ This project is a simple web crawler that starts from a given URL and crawls the
 
 2. Change to the project directory:
    ```ruby
-   cd web-crawler
+   cd Webcrawler
    ```
 
 3. Test and Run script:
